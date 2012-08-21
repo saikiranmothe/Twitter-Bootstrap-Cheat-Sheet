@@ -16,8 +16,7 @@ then
 
 4.rails g bootstrap:layout
 
-5.rails g bootstrap:themed users(resource name)
------------------------------------
+5.rails g bootstrap:themed users(resource name) 
 
 
 ---------------------
